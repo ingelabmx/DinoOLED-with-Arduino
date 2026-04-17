@@ -54,9 +54,3 @@ Instala estas librerías desde el Library Manager del Arduino IDE:
 
 - Adafruit GFX
 - Adafruit SSD1306
-
-## Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/DinoOLED.git
